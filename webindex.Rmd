@@ -1,0 +1,49 @@
+---
+title: "MU-Corteva Plant Research Symposium"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+![](../figs25/mups_logo_small.png)
+
+
+# 2026 Edition at a Glance
+
+- **Day:** Friday 24th, April 2026.
+- **Time:** 8am - 3pm CT
+- **Where:** Wrench Auditorium, MU Memorial Union Building South
+
+Click [here](./program.html) more information about the program.
+
+# Invited Speakers
+
+- [**Bing Yang**](https://www.danforthcenter.org/our-work/principal-investigators/bing-yang/?gad_source=1&gad_campaignid=8031793198&gbraid=0AAAAACvziSZdY9tyXaAfLw7kIH8jqLb8z&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzKuvfJPygc48yfqm_cALs3HlIxszLRTNAHzrPD7MdJQkZTM1nugUksaAl6kEALw_wcB), University of Missouri, Donald Danforth Plant Science Center
+- [**Lauren Brzozowski**](https://pss.mgcafe.uky.edu/directory/brzozowski-lauren), University of Kentucky
+- [**James Schnable**](https://agronomy.unl.edu/schnable/). University of Nebraska-Lincoln
+- [**Prashant Sonawane**](https://cafnr.missouri.edu/directory/prashant-d-sonawane/), University of Missouri
+- [**Maryam Rahmati**](https://www.eiu.edu/_eiu15/include/global/profile-frame-gsm2.php?id=mrahmatiishka&subcat=0), Eastern Illinois University
+
+Click [here](./invited.html) more information about our invited speakers and their talks.
+
+# Participate
+
+Registration is **FREE** and open. [Click here to register](link). Please register to your earliest convenience so we can plan meals accordingly.
+
+You are also invited to submit your abstract for your ASPB poster to be considered for a lightning talk. [Submit your abstract here](insert IPG symposium Abstract submission page).
+
+**Deadline for abstract submission:** March 23rd, 2026.
+
+# Sponsors
+
+This symposium is possible thanks to the generous contributions of our sponsors:
+
+- [**Corteva Agriscience**](https://www.corteva.com/)
+- [**Donald Danforth Plant Science Center**](https://www.danforthcenter.org/)
+- [**Interdisciplinary Plant Group, University of Missouri**](https://ipg.missouri.edu/)
+- [**The MU Bond Life Sciences Center**](https://bondlsc.missouri.edu/)
+- [**Division of Biological Sciences, University of Missouri**](https://biology.missouri.edu/)
+- [**The Graduate School, University of Missouri**](https://gradschool.missouri.edu/)
+
+![](../figs25/sponsors2025.png)
